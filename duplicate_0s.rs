@@ -13,7 +13,7 @@ Note:
 1 <= arr.length <= 10000
 0 <= arr[i] <= 9
 https://leetcode.com/problems/duplicate-zeros/ */
-// cerner_2^5_2021
+// cerner_2tothe5th_2021
 
 fn main() {
     let mut arr = vec![1,0,2,3,0,4,5,0];
