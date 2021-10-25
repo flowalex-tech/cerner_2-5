@@ -1,5 +1,7 @@
 use rand::distributions::{Distribution, Uniform};
 use rand::Rng;
+// cerner_2tothe5th_2021
+
 struct GameResults {
     win: bool,1
     switch: bool,
