@@ -2,7 +2,7 @@ import urllib
 from urllib.request import urlopen
 import json
 import pyjq
-
+# cerner_2tothe5th_2022
 # Where to find Zone IDs by state: https://www.weather.gov/primar/PubZone
 # nwsurl = 'https://api.weather.gov/alerts/active/zone/MNZ060' # Hennipen County
 # nwsurl = 'https://api.weather.gov/alerts/active/zone/MNZ021' # Southern Cook/ North Shore Grand Marais
